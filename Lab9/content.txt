@@ -1,0 +1,500 @@
+[0] Human condition -> /wiki/Human_condition
+[1] Technologies -> /wiki/Technologies
+[2] Longevity -> /wiki/Longevity
+[3] Cognition -> /wiki/Cognition
+[4] Emerging technologies -> /wiki/Emerging_technologies
+[5] Technoethics -> /wiki/Technoethics
+[6] Posthuman -> /wiki/Posthuman#Transhumanism
+[7] Existential risk -> /wiki/Existential_risk
+[8] Wikipedia:NOTRS -> /wiki/Wikipedia:NOTRS
+[9] Julian Huxley -> /wiki/Julian_Huxley
+[10] Futures studies -> /wiki/Futures_studies
+[11] FM-2030 -> /wiki/FM-2030
+[12] The New School -> /wiki/The_New_School
+[13] Worldview -> /wiki/Worldview
+[14] Transhuman -> /wiki/Transhuman
+[15] Max More -> /wiki/Max_More
+[16] Futurist -> /wiki/Futurist
+[17] California -> /wiki/California
+[18] School of thought -> /wiki/School_of_thought
+[19] Science fiction -> /wiki/Science_fiction
+[20] Penn State University Press -> /wiki/Penn_State_University_Press
+[21] Stefan Lorenz Sorgner -> /wiki/Stefan_Lorenz_Sorgner
+[22] James Hughes (sociologist) -> /wiki/James_Hughes_(sociologist)
+[23] Journal of Posthuman Studies -> /wiki/Journal_of_Posthuman_Studies
+[24] Posthuman -> /wiki/Posthuman
+[25] Posthumanism -> /wiki/Posthumanism
+[26] Nazism -> /wiki/Nazism
+[27] Eugenics -> /wiki/Eugenics
+[28] Jürgen Habermas -> /wiki/J%C3%BCrgen_Habermas
+[29] Nick Bostrom -> /wiki/Nick_Bostrom
+[30] Self-transcendence -> /wiki/Self-transcendence
+[31] Immortality -> /wiki/Immortality
+[32] Epic of Gilgamesh -> /wiki/Epic_of_Gilgamesh
+[33] Fountain of Youth -> /wiki/Fountain_of_Youth
+[34] Elixir of Life -> /wiki/Elixir_of_Life
+[35] Aristotle -> /wiki/Aristotle
+[36] Roger Bacon -> /wiki/Roger_Bacon
+[37] Divine Comedy -> /wiki/Divine_Comedy
+[38] Dante Alighieri -> /wiki/Dante_Alighieri
+[39] Canto -> /wiki/Canto
+[40] Paradiso (Dante) -> /wiki/Paradiso_(Dante)
+[41] Age of Enlightenment -> /wiki/Age_of_Enlightenment
+[42] Francis Bacon -> /wiki/Francis_Bacon
+[43] Discourse on Method -> /wiki/Discourse_on_Method
+[44] René Descartes -> /wiki/Ren%C3%A9_Descartes
+[45] Enquiry Concerning Political Justice -> /wiki/Enquiry_Concerning_Political_Justice
+[46] William Godwin -> /wiki/William_Godwin
+[47] Immortality -> /wiki/Immortality
+[48] Physical immortality -> /wiki/Physical_immortality
+[49] Life extension -> /wiki/Life_extension
+[50] Gothic fiction -> /wiki/Gothic_fiction
+[51] St. Leon (novel) -> /wiki/St._Leon_(novel)
+[52] Mary Shelley -> /wiki/Mary_Shelley
+[53] Frankenstein -> /wiki/Frankenstein
+[54] Philosophy of Friedrich Nietzsche -> /wiki/Philosophy_of_Friedrich_Nietzsche
+[55] Übermensch -> /wiki/%C3%9Cbermensch
+[56] Self-actualization -> /wiki/Self-actualization
+[57] Max More -> /wiki/Max_More
+[58] Stefan Lorenz Sorgner -> /wiki/Stefan_Lorenz_Sorgner
+[59] Russian cosmism -> /wiki/Russian_cosmism
+[60] Nikolai Fyodorovich Fyodorov -> /wiki/Nikolai_Fyodorovich_Fyodorov
+[61] FM-2030 -> /wiki/FM-2030
+[62] Futurist -> /wiki/Futurist
+[63] The New School -> /wiki/The_New_School
+[64] New York City -> /wiki/New_York_City
+[65] Posthumanity -> /wiki/Posthumanity
+[66] Transhuman -> /wiki/Transhuman
+[67] J. B. S. Haldane -> /wiki/J._B._S._Haldane
+[68] Daedalus; or, Science and the Future -> /wiki/Daedalus;_or,_Science_and_the_Future
+[69] Eugenics -> /wiki/Eugenics
+[70] Ectogenesis -> /wiki/Ectogenesis
+[71] John Desmond Bernal -> /wiki/John_Desmond_Bernal
+[72] University of Cambridge -> /wiki/University_of_Cambridge
+[73] Space colonization -> /wiki/Space_colonization
+[74] Bionics -> /wiki/Bionics
+[75] Cognitive enhancement -> /wiki/Cognitive_enhancement
+[76] Thomas Hobbes -> /wiki/Thomas_Hobbes
+[77] Science fiction -> /wiki/Science_fiction
+[78] Arthur C. Clarke -> /wiki/Arthur_C._Clarke
+[79] Metabolist -> /wiki/Metabolist
+[80] Metabolism (architecture) -> /wiki/Metabolism_(architecture)#Material_and_Man
+[81] Technological singularity -> /wiki/Technological_singularity
+[82] Cryptologist -> /wiki/Cryptologist
+[83] I. J. Good -> /wiki/I._J._Good
+[84] Computer scientist -> /wiki/Computer_scientist
+[85] Marvin Minsky -> /wiki/Marvin_Minsky
+[86] Artificial intelligence -> /wiki/Artificial_intelligence
+[87] Hans Moravec -> /wiki/Hans_Moravec
+[88] Raymond Kurzweil -> /wiki/Raymond_Kurzweil
+[89] Robert Ettinger -> /wiki/Robert_Ettinger
+[90] Cryonics movement -> /wiki/Cryonics_movement
+[91] University of California, Los Angeles -> /wiki/University_of_California,_Los_Angeles
+[92] FM-2030 -> /wiki/FM-2030
+[93] Third Way (centrism) -> /wiki/Third_Way_(centrism)
+[94] EZTV (media company) -> /wiki/EZTV_(media_company)
+[95] Natasha Vita-More -> /wiki/Natasha_Vita-More
+[96] Los Angeles, California -> /wiki/Los_Angeles,_California
+[97] K. Eric Drexler -> /wiki/K._Eric_Drexler
+[98] Engines of Creation -> /wiki/Engines_of_Creation
+[99] Nanotechnology -> /wiki/Nanotechnology
+[100] Molecular assembler -> /wiki/Molecular_assembler
+[101] Foresight Institute -> /wiki/Foresight_Institute
+[102] Cryonics -> /wiki/Cryonics
+[103] Alcor Life Extension Foundation -> /wiki/Alcor_Life_Extension_Foundation
+[104] Max More -> /wiki/Max_More
+[105] Extropy Institute -> /wiki/Extropy_Institute
+[106] Memeplex -> /wiki/Memeplex
+[107] Cyberculture -> /wiki/Cyberculture
+[108] Cyberdelic -> /wiki/Cyberdelic
+[109] Nick Bostrom -> /wiki/Nick_Bostrom
+[110] David Pearce (philosopher) -> /wiki/David_Pearce_(philosopher)
+[111] World Transhumanist Association -> /wiki/World_Transhumanist_Association
+[112] Scientific inquiry -> /wiki/Scientific_inquiry
+[113] Policy -> /wiki/Policy
+[114] Humanity+ -> /wiki/Humanity%2B
+[115] Futurist -> /wiki/Futurist
+[116] Human enhancement -> /wiki/Human_enhancement
+[117] Transhumanist politics -> /wiki/Transhumanist_politics
+[118] Right-libertarianism -> /wiki/Right-libertarianism
+[119] Modern liberalism in the United States -> /wiki/Modern_liberalism_in_the_United_States
+[120] Centre-left -> /wiki/Centre-left
+[121] James Hughes (sociologist) -> /wiki/James_Hughes_(sociologist)
+[122] Humanity+ -> /wiki/Humanity%2B
+[123] Transhumanist politics -> /wiki/Transhumanist_politics
+[124] Mormonism -> /wiki/Mormonism
+[125] Giuseppe Vatinno -> /wiki/Giuseppe_Vatinno
+[126] Posthumanism -> /wiki/Posthumanism
+[127] Activist -> /wiki/Activist
+[128] Conservatism -> /wiki/Conservatism
+[129] Christianity -> /wiki/Christianity
+[130] Progressivism -> /wiki/Progressivism
+[131] Biological uplift -> /wiki/Biological_uplift
+[132] Artificial intelligence -> /wiki/Artificial_intelligence
+[133] Hans Moravec -> /wiki/Hans_Moravec
+[134] Apocalypticism -> /wiki/Apocalypticism
+[135] Cultural posthumanism -> /wiki/Cultural_posthumanism
+[136] Humanities -> /wiki/Humanities
+[137] The arts -> /wiki/The_arts
+[138] Agency (philosophy) -> /wiki/Agency_(philosophy)
+[139] Prerogative -> /wiki/Prerogative
+[140] Posthuman -> /wiki/Posthuman
+[141] Humanism -> /wiki/Humanism
+[142] Age of Enlightenment -> /wiki/Age_of_Enlightenment
+[143] Secular humanism -> /wiki/Secular_humanism
+[144] Freethought -> /wiki/Freethought
+[145] Technocentrism -> /wiki/Technocentrism
+[146] Death -> /wiki/Death
+[147] Social justice -> /wiki/Social_justice
+[148] Social change -> /wiki/Social_change
+[149] Narcissism -> /wiki/Narcissism
+[150] Self-transcendence -> /wiki/Self-transcendence
+[151] Perfectionism (philosophy) -> /wiki/Perfectionism_(philosophy)
+[152] Genotype -> /wiki/Genotype
+[153] DNA -> /wiki/DNA
+[154] Phenotypes -> /wiki/Phenotypes
+[155] Technoself studies -> /wiki/Technoself_studies
+[156] Reason -> /wiki/Reason
+[157] Biocentrism (ethics) -> /wiki/Biocentrism_(ethics)
+[158] Congenital disorder -> /wiki/Congenital_disorder
+[159] Perfectionism (philosophy) -> /wiki/Perfectionism_(philosophy)
+[160] Transhuman -> /wiki/Transhuman
+[161] Human enhancement -> /wiki/Human_enhancement
+[162] Directed evolution -> /wiki/Directed_evolution
+[163] Ray Kurzweil -> /wiki/Ray_Kurzweil
+[164] Accelerating change -> /wiki/Accelerating_change
+[165] Technological singularity -> /wiki/Technological_singularity
+[166] Existential risk -> /wiki/Existential_risk
+[167] Knowledge economy -> /wiki/Knowledge_economy
+[168] Knowledge management -> /wiki/Knowledge_management
+[169] Evolution -> /wiki/Evolution
+[170] Civilization -> /wiki/Civilization
+[171] Fermi paradox -> /wiki/Fermi_paradox
+[172] Human genome -> /wiki/Human_genome
+[173] Brain–computer interface -> /wiki/Brain%E2%80%93computer_interface
+[174] Human intelligence -> /wiki/Human_intelligence
+[175] Aggression -> /wiki/Aggression
+[176] Societal collapse -> /wiki/Societal_collapse
+[177] Fallibility -> /wiki/Fallibility
+[178] Sentience -> /wiki/Sentience
+[179] Sapience -> /wiki/Sapience
+[180] Falsifiability -> /wiki/Falsifiability
+[181] Critical phenomena -> /wiki/Critical_phenomena
+[182] Brain -> /wiki/Brain
+[183] Interdisciplinary -> /wiki/Interdisciplinary
+[184] Futurology -> /wiki/Futurology
+[185] Wikipedia:Citation needed -> /wiki/Wikipedia:Citation_needed
+[186] Nature -> /wiki/Nature
+[187] Appeal to nature -> /wiki/Appeal_to_nature
+[188] Bioconservatism -> /wiki/Bioconservatism
+[189] Neo-luddism -> /wiki/Neo-luddism
+[190] Luddite -> /wiki/Luddite
+[191] Nick Bostrom -> /wiki/Nick_Bostrom
+[192] David Pearce (philosopher) -> /wiki/David_Pearce_(philosopher)
+[193] Eradication of suffering -> /wiki/Eradication_of_suffering
+[194] Atheism -> /wiki/Atheism
+[195] Agnosticism -> /wiki/Agnosticism
+[196] Secular humanism -> /wiki/Secular_humanism
+[197] Religion -> /wiki/Religion
+[198] Spirituality -> /wiki/Spirituality
+[199] Immortality -> /wiki/Immortality
+[200] New religious movement -> /wiki/New_religious_movement
+[201] Raëlism -> /wiki/Ra%C3%ABlism
+[202] Neurotheology -> /wiki/Neurotheology
+[203] Neurotechnology -> /wiki/Neurotechnology
+[204] Altered states of consciousness -> /wiki/Altered_states_of_consciousness
+[205] Spiritual experience -> /wiki/Spiritual_experience
+[206] Self-knowledge (psychology) -> /wiki/Self-knowledge_(psychology)
+[207] Buddhist meditation -> /wiki/Buddhist_meditation
+[208] Mindfulness -> /wiki/Mindfulness
+[209] Consciousness -> /wiki/Consciousness
+[210] Mind uploading -> /wiki/Mind_uploading
+[211] Omega Point -> /wiki/Omega_Point
+[212] Frank J. Tipler -> /wiki/Frank_J._Tipler
+[213] Digital physics -> /wiki/Digital_physics
+[214] Universe -> /wiki/Universe
+[215] Simulated reality -> /wiki/Simulated_reality
+[216] Posthuman God -> /wiki/Posthuman_God
+[217] Pierre Teilhard de Chardin -> /wiki/Pierre_Teilhard_de_Chardin
+[218] Paleontologist -> /wiki/Paleontologist
+[219] Jesuit -> /wiki/Jesuit
+[220] Telos (philosophy) -> /wiki/Telos_(philosophy)
+[221] Noosphere -> /wiki/Noosphere
+[222] Gnostic -> /wiki/Gnostic
+[223] Gnosticism in modern times -> /wiki/Gnosticism_in_modern_times
+[224] Faith -> /wiki/Faith
+[225] University of Toronto -> /wiki/University_of_Toronto
+[226] Divinity -> /wiki/Divinity
+[227] Postmodern -> /wiki/Postmodern
+[228] Cynicism (contemporary) -> /wiki/Cynicism_(contemporary)
+[229] Anomie -> /wiki/Anomie
+[230] Optimistic -> /wiki/Optimistic
+[231] Age of Enlightenment -> /wiki/Age_of_Enlightenment
+[232] William Sims Bainbridge -> /wiki/William_Sims_Bainbridge
+[233] Sociology of religion -> /wiki/Sociology_of_religion
+[234] Journal of Evolution and Technology -> /wiki/Journal_of_Evolution_and_Technology
+[235] Mormon Transhumanist Association (page does not exist) -> /w/index.php?title=Mormon_Transhumanist_Association&action=edit&redlink=1
+[236] American Academy of Religion -> /wiki/American_Academy_of_Religion
+[237] Religious studies -> /wiki/Religious_studies
+[238] Giulio Prisco -> /wiki/Giulio_Prisco
+[239] Nikolai Fyodorovich Fyodorov -> /wiki/Nikolai_Fyodorovich_Fyodorov
+[240] Wikipedia:Manual of Style/Words to watch -> /wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions
+[241] Nervous system -> /wiki/Nervous_system
+[242] Kevin Warwick -> /wiki/Kevin_Warwick
+[243] Peripheral nervous system -> /wiki/Peripheral_nervous_system
+[244] Human brain -> /wiki/Human_brain
+[245] Self-improvement -> /wiki/Self-improvement
+[246] Body modification -> /wiki/Body_modification
+[247] Wikipedia:Manual of Style/Words to watch -> /wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions
+[248] Life extension -> /wiki/Life_extension
+[249] Cryonics -> /wiki/Cryonics
+[250] Wikipedia:Citation needed -> /wiki/Wikipedia:Citation_needed
+[251] Neil Harbisson -> /wiki/Neil_Harbisson
+[252] Emerging technologies -> /wiki/Emerging_technologies
+[253] Converging technologies -> /wiki/Converging_technologies
+[254] Nanotechnology -> /wiki/Nanotechnology
+[255] Biotechnology -> /wiki/Biotechnology
+[256] Information technology -> /wiki/Information_technology
+[257] Cognitive science -> /wiki/Cognitive_science
+[258] Simulated reality -> /wiki/Simulated_reality
+[259] Artificial intelligence -> /wiki/Artificial_intelligence
+[260] Superintelligence -> /wiki/Superintelligence
+[261] 3D bioprinting -> /wiki/3D_bioprinting
+[262] Mind uploading -> /wiki/Mind_uploading
+[263] Cryonics -> /wiki/Cryonics
+[264] Superhuman -> /wiki/Superhuman
+[265] Cognitive liberty -> /wiki/Cognitive_liberty
+[266] Morphological freedom -> /wiki/Morphological_freedom
+[267] Procreative liberty -> /wiki/Procreative_liberty
+[268] Civil liberties -> /wiki/Civil_liberties
+[269] Human enhancement technologies -> /wiki/Human_enhancement_technologies
+[270] The Singularity is Near -> /wiki/The_Singularity_is_Near
+[271] Physics of the Future -> /wiki/Physics_of_the_Future
+[272] Science fiction -> /wiki/Science_fiction
+[273] United States Department of Defense -> /wiki/United_States_Department_of_Defense
+[274] Supersoldier -> /wiki/Supersoldier
+[275] Anders Sandberg -> /wiki/Anders_Sandberg
+[276] Humanism -> /wiki/Humanism
+[277] Dystopia -> /wiki/Dystopia
+[278] Brave New World -> /wiki/Brave_New_World
+[279] Aldous Huxley -> /wiki/Aldous_Huxley
+[280] Scientism -> /wiki/Scientism
+[281] Nihilism -> /wiki/Nihilism
+[282] Millenarianism -> /wiki/Millenarianism
+[283] Historical materialism -> /wiki/Historical_materialism
+[284] Gregory Stock -> /wiki/Gregory_Stock
+[285] Cyborgization -> /wiki/Cyborgization
+[286] Hans Moravec -> /wiki/Hans_Moravec
+[287] Kevin Warwick -> /wiki/Kevin_Warwick
+[288] Cyberware -> /wiki/Cyberware
+[289] Genetics -> /wiki/Genetics
+[290] Metabolism -> /wiki/Metabolism
+[291] Biochemistry -> /wiki/Biochemistry
+[292] Mary Midgley -> /wiki/Mary_Midgley
+[293] Self-transcendence -> /wiki/Self-transcendence
+[294] Mind uploading -> /wiki/Mind_uploading
+[295] J. B. S. Haldane -> /wiki/J._B._S._Haldane
+[296] Escapism -> /wiki/Escapism
+[297] Pseudoscientific -> /wiki/Pseudoscientific
+[298] Layman -> /wiki/Layman
+[299] Eschatological -> /wiki/Eschatological
+[300] Algeny -> /wiki/Algeny
+[301] Jeremy Rifkin -> /wiki/Jeremy_Rifkin
+[302] Biocomplexity -> /wiki/Biocomplexity
+[303] Evolution -> /wiki/Evolution
+[304] Stuart Newman -> /wiki/Stuart_Newman
+[305] Somatic cell nuclear transfer -> /wiki/Somatic_cell_nuclear_transfer
+[306] Germline -> /wiki/Germline
+[307] Genetic engineering -> /wiki/Genetic_engineering
+[308] Morphogenesis -> /wiki/Morphogenesis
+[309] Declaration of Helsinki -> /wiki/Declaration_of_Helsinki
+[310] Bioethicist -> /wiki/Bioethicist
+[311] James Hughes (sociologist) -> /wiki/James_Hughes_(sociologist)
+[312] Computer model -> /wiki/Computer_model
+[313] Human genome -> /wiki/Human_genome
+[314] Tissue engineering -> /wiki/Tissue_engineering
+[315] Bioinformatics -> /wiki/Bioinformatics
+[316] Public health -> /wiki/Public_health
+[317] Gregory Stock -> /wiki/Gregory_Stock
+[318] Human artificial chromosome -> /wiki/Human_artificial_chromosome
+[319] Wikipedia:Manual of Style/Words to watch -> /wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions
+[320] Accelerating change -> /wiki/Accelerating_change
+[321] The Singularity Is Near -> /wiki/The_Singularity_Is_Near
+[322] God -> /wiki/God
+[323] Holy See -> /wiki/Holy_See
+[324] Infrahuman -> /wiki/Infrahuman
+[325] Divinization (Christian) -> /wiki/Divinization_(Christian)
+[326] Life extension -> /wiki/Life_extension
+[327] Utopian -> /wiki/Utopian
+[328] Immanentize the eschaton -> /wiki/Immanentize_the_eschaton
+[329] Ted Peters (theologian) -> /wiki/Ted_Peters_(theologian)
+[330] Hans Moravec -> /wiki/Hans_Moravec
+[331] Feminism -> /wiki/Feminism
+[332] Susan Bordo -> /wiki/Susan_Bordo
+[333] Body image -> /wiki/Body_image
+[334] Body modification -> /wiki/Body_modification
+[335] Atomized individualism -> /wiki/Atomized_individualism
+[336] Commodification -> /wiki/Commodification
+[337] Consumer culture -> /wiki/Consumer_culture
+[338] Rejuvenation (aging) -> /wiki/Rejuvenation_(aging)
+[339] Human Genome Project -> /wiki/Human_Genome_Project
+[340] Environmental ethics -> /wiki/Environmental_ethics
+[341] Bill McKibben -> /wiki/Bill_McKibben
+[342] Germinal choice technology -> /wiki/Germinal_choice_technology
+[343] Nanomedicine -> /wiki/Nanomedicine
+[344] Life extension -> /wiki/Life_extension
+[345] Aging -> /wiki/Aging
+[346] Maximum life span -> /wiki/Maximum_life_span
+[347] Meaning of life -> /wiki/Meaning_of_life
+[348] Ming Dynasty -> /wiki/Ming_Dynasty
+[349] Tokugawa shogunate -> /wiki/Tokugawa_shogunate
+[350] Amish -> /wiki/Amish
+[351] Biopolitical -> /wiki/Biopolitical
+[352] Jeremy Rifkin -> /wiki/Jeremy_Rifkin
+[353] Stuart Newman -> /wiki/Stuart_Newman
+[354] Organism -> /wiki/Organism
+[355] Cultural artifact -> /wiki/Cultural_artifact
+[356] Modernization -> /wiki/Modernization
+[357] Monster -> /wiki/Monster
+[358] Human clone -> /wiki/Human_clone
+[359] Human-animal hybrid -> /wiki/Human-animal_hybrid
+[360] Chimera (genetics) -> /wiki/Chimera_(genetics)
+[361] Bioroid -> /wiki/Bioroid
+[362] Social structure -> /wiki/Social_structure
+[363] Ecosystem -> /wiki/Ecosystem
+[364] Blade Runner -> /wiki/Blade_Runner
+[365] The Boys from Brazil (novel) -> /wiki/The_Boys_from_Brazil_(novel)
+[366] The Island of Doctor Moreau -> /wiki/The_Island_of_Doctor_Moreau
+[367] Frankenstein -> /wiki/Frankenstein
+[368] Objectification -> /wiki/Objectification
+[369] Anomie -> /wiki/Anomie
+[370] Untermensch -> /wiki/Untermensch
+[371] Dehumanization -> /wiki/Dehumanization
+[372] Ban (law) -> /wiki/Ban_(law)
+[373] Science journalist -> /wiki/Science_journalist
+[374] Ronald Bailey -> /wiki/Ronald_Bailey
+[375] Gene therapy -> /wiki/Gene_therapy
+[376] Enhancement technologies -> /wiki/Enhancement_technologies
+[377] Reason (magazine) -> /wiki/Reason_(magazine)
+[378] Alarmism -> /wiki/Alarmism
+[379] Homo sapiens -> /wiki/Homo_sapiens
+[380] Health care -> /wiki/Health_care
+[381] Personhood theory -> /wiki/Personhood_theory
+[382] Isaac Asimov -> /wiki/Isaac_Asimov
+[383] Frankenstein complex -> /wiki/Frankenstein_complex
+[384] Woody Evans -> /wiki/Woody_Evans
+[385] Self-aware -> /wiki/Self-aware
+[386] Biological uplift -> /wiki/Biological_uplift
+[387] Citizenship -> /wiki/Citizenship
+[388] Wisdom of repugnance -> /wiki/Wisdom_of_repugnance
+[389] Human exceptionalism -> /wiki/Human_exceptionalism
+[390] Number of the beast -> /wiki/Number_of_the_beast
+[391] Public interest -> /wiki/Public_interest
+[392] Center for Genetics and Society -> /wiki/Center_for_Genetics_and_Society
+[393] Human cloning -> /wiki/Human_cloning
+[394] Germinal choice technology -> /wiki/Germinal_choice_technology
+[395] Institute on Biotechnology and the Human Future -> /wiki/Institute_on_Biotechnology_and_the_Human_Future
+[396] Chicago-Kent College of Law -> /wiki/Chicago-Kent_College_of_Law
+[397] Libertarian transhumanism -> /wiki/Libertarian_transhumanism
+[398] Economic inequality -> /wiki/Economic_inequality
+[399] Bill McKibben -> /wiki/Bill_McKibben
+[400] Lee M. Silver -> /wiki/Lee_M._Silver
+[401] Science writer -> /wiki/Science_writer
+[402] Reprogenetics -> /wiki/Reprogenetics
+[403] Social safety net -> /wiki/Social_safety_net
+[404] Gattaca -> /wiki/Gattaca
+[405] Dystopia -> /wiki/Dystopia
+[406] Social class -> /wiki/Social_class
+[407] Criticism of libertarianism -> /wiki/Criticism_of_libertarianism
+[408] Democratic transhumanist -> /wiki/Democratic_transhumanist
+[409] Social issues -> /wiki/Social_issues
+[410] Environmental issues -> /wiki/Environmental_issues
+[411] Unemployment -> /wiki/Unemployment
+[412] Resource depletion -> /wiki/Resource_depletion
+[413] Guaranteed minimum income -> /wiki/Guaranteed_minimum_income
+[414] Alternative technology -> /wiki/Alternative_technology
+[415] Citizen Cyborg -> /wiki/Citizen_Cyborg
+[416] Progressivism -> /wiki/Progressivism
+[417] Techno-progressive -> /wiki/Techno-progressive
+[418] Universal health care -> /wiki/Universal_health_care
+[419] Voucher -> /wiki/Voucher
+[420] Black market -> /wiki/Black_market
+[421] Leon Kass -> /wiki/Leon_Kass
+[422] Our Posthuman Future -> /wiki/Our_Posthuman_Future
+[423] Foreign Policy (magazine) -> /wiki/Foreign_Policy_(magazine)
+[424] Francis Fukuyama -> /wiki/Francis_Fukuyama
+[425] World's most dangerous idea -> /wiki/World%27s_most_dangerous_idea
+[426] Democracy -> /wiki/Democracy
+[427] Liberal democracy -> /wiki/Liberal_democracy
+[428] Human nature -> /wiki/Human_nature
+[429] Jürgen Habermas -> /wiki/J%C3%BCrgen_Habermas
+[430] Social order -> /wiki/Social_order
+[431] Social hierarchy -> /wiki/Social_hierarchy
+[432] Social control -> /wiki/Social_control
+[433] Totalitarianism -> /wiki/Totalitarianism
+[434] AI -> /wiki/AI
+[435] Joseph Weizenbaum -> /wiki/Joseph_Weizenbaum
+[436] Misanthropic -> /wiki/Misanthropic
+[437] Hans Moravec -> /wiki/Hans_Moravec
+[438] Reason (magazine) -> /wiki/Reason_(magazine)
+[439] Ronald Bailey -> /wiki/Ronald_Bailey
+[440] Liberalism -> /wiki/Liberalism
+[441] Age of Enlightenment -> /wiki/Age_of_Enlightenment
+[442] Toleration -> /wiki/Toleration
+[443] Posthuman -> /wiki/Posthuman
+[444] Russell Blackford -> /wiki/Russell_Blackford
+[445] Traditional values -> /wiki/Traditional_values
+[446] Alarmism -> /wiki/Alarmism
+[447] Wikipedia:Citation needed -> /wiki/Wikipedia:Citation_needed
+[448] Wikipedia:Manual of Style/Words to watch -> /wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions
+[449] Eugenics -> /wiki/Eugenics
+[450] Social Darwinist -> /wiki/Social_Darwinist
+[451] Master race -> /wiki/Master_race
+[452] Biopolitics -> /wiki/Biopolitics
+[453] Genetic discrimination -> /wiki/Genetic_discrimination
+[454] Human rights violations -> /wiki/Human_rights_violations#Human_rights_violations
+[455] Compulsory sterilization -> /wiki/Compulsory_sterilization
+[456] Racial segregation -> /wiki/Racial_segregation
+[457] Genocide -> /wiki/Genocide
+[458] Social interpretations of race -> /wiki/Social_interpretations_of_race
+[459] Wikipedia:Verifiability -> /wiki/Wikipedia:Verifiability
+[460] George Annas -> /wiki/George_Annas
+[461] Lori Andrews -> /wiki/Lori_Andrews
+[462] Posthuman -> /wiki/Posthuman
+[463] Caste -> /wiki/Caste
+[464] Coercion -> /wiki/Coercion
+[465] Scientific racism -> /wiki/Scientific_racism
+[466] Classist -> /wiki/Classist
+[467] Pseudoscientific -> /wiki/Pseudoscientific
+[468] New eugenics -> /wiki/New_eugenics
+[469] Egalitarian -> /wiki/Egalitarian
+[470] Liberal eugenics -> /wiki/Liberal_eugenics
+[471] Reproductive rights -> /wiki/Reproductive_rights
+[472] Public health -> /wiki/Public_health
+[473] Germinal choice -> /wiki/Germinal_choice
+[474] Reprogenetics -> /wiki/Reprogenetics
+[475] Wikipedia:Citation needed -> /wiki/Wikipedia:Citation_needed
+[476] Our Final Hour -> /wiki/Our_Final_Hour
+[477] Astronomer Royal -> /wiki/Astronomer_Royal
+[478] Martin Rees -> /wiki/Martin_Rees
+[479] Precautionary principle -> /wiki/Precautionary_principle
+[480] Environmental movement -> /wiki/Environmental_movement
+[481] Artificial intelligence -> /wiki/Artificial_intelligence
+[482] Robotics -> /wiki/Robotics
+[483] Existential risk -> /wiki/Existential_risk
+[484] Technorealism -> /wiki/Technorealism
+[485] Technogaian -> /wiki/Technogaian
+[486] Connections (British documentary) -> /wiki/Connections_(British_documentary)
+[487] Science historian -> /wiki/Science_historian
+[488] James Burke (science historian) -> /wiki/James_Burke_(science_historian)
+[489] Technological change -> /wiki/Technological_change
+[490] Inquiry -> /wiki/Inquiry
+[491] Status quo -> /wiki/Status_quo
+[492] Clean technology -> /wiki/Clean_technology
+[493] Alternative technology -> /wiki/Alternative_technology
+[494] Anti-science -> /wiki/Anti-science
+[495] Technophobia -> /wiki/Technophobia
+[496] Nick Bostrom -> /wiki/Nick_Bostrom
+[497] Global catastrophic risk -> /wiki/Global_catastrophic_risk
+[498] Malthusian -> /wiki/Malthusian
+[499] Differential technological development -> /wiki/Differential_technological_development
